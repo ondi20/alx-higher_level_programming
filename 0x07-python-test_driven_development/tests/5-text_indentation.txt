@@ -1,0 +1,29 @@
+"""
+Defines a text-indentation function.
+
+This module provides a function, 'text_indentation', that takes a text as input and prints the text with two new lines after each '.', '?', and ':' characters. This is a simple way to add proper indentation to text for better readability.
+
+"""
+
+def text_indentation(text):
+    """Print text with two new lines after each '.', '?', and ':'.
+
+    Args:
+        text (str): The text to be processed and printed with proper indentation.
+
+    Raises:
+        TypeError: If 'text' is not a string.
+
+    This function processes the input 'text' and adds two new lines after each '.', '?', and ':' characters to ensure proper indentation. The result is printed to the console.
+
+    Example:
+    >>> text = "This is a sample text. It contains multiple sentences? And some colons: like this."
+    >>> text_indentation(text)
+    This is a sample text.
+
+    It contains multiple sentences?
+
+    And some colons:
+
+    like this.
+    """
