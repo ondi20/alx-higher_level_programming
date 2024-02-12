@@ -1,1 +1,1 @@
-Introduction to JavaScript.
+JavaScript warm-up.
