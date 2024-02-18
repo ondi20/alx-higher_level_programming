@@ -1,4 +1,4 @@
-**Why Python programming is awesome:**
+Why Python programming is awesome:
 Python is considered awesome for several reasons:
 1. **Readability:** Python's syntax is clean and easy to read, making it a great language for beginners and experienced developers alike.
 2. **Versatility:** Python is a general-purpose language, suitable for a wide range of applications, including web development, data science, artificial intelligence, automation, and more.
